@@ -48,7 +48,7 @@ AddEventHandler("ipl-bush:interact", function()
         if hasBushFadedIn then
             hasBushFadedIn = false
             FadeOutObject(Bush, 100) -- fades object out
-            Citizen.Wait(100)
+            Wait(100)
             DeleteEntity(Bush) -- deletes Bush
             Bush = nil
         end
