@@ -46,4 +46,3 @@ To use the bush item, obtain it in-game and interact with it. Enjoy hiding and m
 Feel free to reach out if you have any questions or need further assistance.
 
 Happy hiding!
-```
