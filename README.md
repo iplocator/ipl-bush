@@ -1,4 +1,3 @@
-```markdown
 # ipl-bush
 
 Welcome to the ipl-bush resource for your FiveM server!
@@ -7,6 +6,7 @@ Welcome to the ipl-bush resource for your FiveM server!
 
 The ipl-bush resource adds a fun and interactive item to your server - a bush that you can hide in and move around! Surprise your players with this quirky and immersive feature.
 
+```markdown
 ## Installation
 
 1. Open `qb-core/shared/items.lua`.
