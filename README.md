@@ -1,5 +1,3 @@
-Certainly! Here's a GitHub README for the "ipl-bush" resource:
-
 ```markdown
 # ipl-bush
 
