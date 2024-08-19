@@ -13,7 +13,7 @@ The ipl-bush resource adds a fun and interactive item to your server - a bush th
 
 2. Add the following entry to the items list:
 
-   ```lua
+   ```
    ["bush"] = {
       ["name"] = "bush",
       ["label"] = "A Bush?",
